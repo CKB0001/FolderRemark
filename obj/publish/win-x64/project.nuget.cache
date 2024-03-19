@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "eEYf0cI1ypJHC1ycVCwH1+vya6Aon+v3fO/JkR6t60Fl9I2Ahls/AHKp7dMjYkcPDm/1A2IUaMMXL432LE6T0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\NetTestProgram\\FolderRemark\\FolderRemark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chen\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.extensions.configuration.commandline\\8.0.0\\microsoft.extensions.configuration.commandline.8.0.0.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.27\\microsoft.netcore.app.runtime.win-x64.6.0.27.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.27\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.27.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.27\\microsoft.aspnetcore.app.runtime.win-x64.6.0.27.nupkg.sha512",
+    "C:\\Users\\Chen\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.27\\microsoft.netcore.app.crossgen2.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0”还原包“ini-parser 2.5.2”。此包可能与项目不完全兼容。",
+      "libraryId": "ini-parser",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

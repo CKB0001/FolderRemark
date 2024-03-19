@@ -1,0 +1,2 @@
+D:\Study\NetTestProgram\FolderRemark\bin\Release\net6.0\publish\remarkv1.0\FolderRemark.pdb
+D:\Study\NetTestProgram\FolderRemark\bin\Release\net6.0\publish\remarkv1.0\FolderRemark.exe
