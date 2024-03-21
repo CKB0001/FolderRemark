@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FolderRemark")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4788beb323d8ff62fe712c127017dc2563c1e272")]
 [assembly: System.Reflection.AssemblyProductAttribute("FolderRemark")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FolderRemark")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
